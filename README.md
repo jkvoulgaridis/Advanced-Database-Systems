@@ -14,6 +14,10 @@ Given a large dataset of movies and informations about them, the purpose of the 
 3) Compare running time of the above join on given data.
 
 
+## SETUP 
+
+All queries were running on a cluster of two nodes (master/slave) each having 2GB RAM. The VM's were assigned by Okeanos project @NTUA.
+
 ## TODO 
 
 Query Description will be uploaded in english and in greek :) 
